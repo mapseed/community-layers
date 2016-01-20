@@ -1,6 +1,4 @@
-{
-  "id": "smartercleanup.k9dcl2i9",
-  "features": [
+[
     {
       "id": "03a8670ec1d2c542ff5361b1818268e3",
       "geometry": {
@@ -16632,6 +16630,4 @@
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
-}
+  ]
